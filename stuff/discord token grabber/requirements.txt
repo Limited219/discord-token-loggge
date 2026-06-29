@@ -1,0 +1,5 @@
+requests
+colorama
+pyinstaller
+pypiwin32
+pycryptodome
